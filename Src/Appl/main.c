@@ -1,6 +1,5 @@
 #include "User_Config.h"
 
-/* Example usage of the Port_Init function */
 int main(void) {
 
 	
